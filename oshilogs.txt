@@ -12,45 +12,55 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Gisya =====
-[1]Gisya       |14:44:25 | 11-10-2026| login OK @vgisyaa | score=1000 rank=5873
-[1]Gisya       |14:44:25 | 11-10-2026| serverTime=2026-10-11T14:44:25.000Z local=2026-10-11T14:44:25.929Z
+[1]Gisya       |17:30:06 | 12-10-2026| login OK @vgisyaa | score=1030 rank=6004
+[1]Gisya       |17:30:06 | 12-10-2026| serverTime=2026-10-12T17:30:06.000Z local=2026-10-12T17:30:06.954Z
 --> [1]Gisya menjalankan: Claim Daily
-[1]Gisya       |14:44:28 | 11-10-2026| daily: sudah klaim (already=true) score=1000
---> [1]Gisya menjalankan: Auto All Tasks (3 pending)
-[1]Gisya       |14:44:30 | 11-10-2026| [1/3] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109293788143779794
-[1]Gisya       |14:44:30 | 11-10-2026| delay 10s...
-[1]Gisya       |14:44:42 | 11-10-2026| [2/3] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Gisya       |14:44:42 | 11-10-2026| delay 10s...
-[1]Gisya       |14:44:54 | 11-10-2026| [3/3] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109293819166429566
-[1]Gisya       |14:44:54 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Gisya       |14:44:56 | 11-10-2026| [1/1] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/vgisyaa/status/2109293759945245918
+[1]Gisya       |17:30:08 | 12-10-2026| daily: OK +10 poin score=1040
+--> [1]Gisya menjalankan: Auto All Tasks (8 pending)
+[1]Gisya       |17:30:10 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109697669194583811
+[1]Gisya       |17:30:10 | 12-10-2026| delay 10s...
+[1]Gisya       |17:30:22 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109697917620175818
+[1]Gisya       |17:30:22 | 12-10-2026| delay 10s...
+[1]Gisya       |17:30:35 | 12-10-2026| [3/8] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109697917633008416
+[1]Gisya       |17:30:35 | 12-10-2026| delay 10s...
+[1]Gisya       |17:30:47 | 12-10-2026| [4/8] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109697975966432075
+[1]Gisya       |17:30:47 | 12-10-2026| delay 10s...
+[1]Gisya       |17:31:00 | 12-10-2026| [5/8] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Gisya       |17:31:00 | 12-10-2026| delay 10s...
+[1]Gisya       |17:31:12 | 12-10-2026| [6/8] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109697879562121385
+[1]Gisya       |17:31:12 | 12-10-2026| delay 10s...
+[1]Gisya       |17:31:24 | 12-10-2026| [7/8] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109697930277641579
+[1]Gisya       |17:31:24 | 12-10-2026| delay 10s...
+[1]Gisya       |17:31:36 | 12-10-2026| [8/8] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/vgisyaa/status/2109698115397069836
+[1]Gisya       |17:31:36 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Gisya       |17:31:38 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/vgisyaa/status/2109697944150145061
 --> [1]Gisya menjalankan: Watch Anime
-[1]Gisya       |14:44:57 | 11-10-2026| watch: semua video sudah completed
+[1]Gisya       |17:31:39 | 12-10-2026| watch: semua video sudah completed
 --> [1]Gisya menjalankan: Read Article
-[1]Gisya       |14:44:58 | 11-10-2026| news: 24/24 artikel selesai dibaca
-[1]Gisya       |14:44:59 | 11-10-2026| mint eligibility: {"userId":"1715863199340466176","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
-[1]Gisya       |14:44:59 | 11-10-2026| news: semua artikel sudah dibaca
+[1]Gisya       |17:31:40 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Gisya       |17:31:41 | 12-10-2026| mint eligibility: {"userId":"1715863199340466176","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
+[1]Gisya       |17:31:41 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Gisya menjalankan: Quiz Anime
-[1]Gisya       |14:45:00 | 11-10-2026| quiz ep1: sudah dijawab
-[1]Gisya       |14:45:00 | 11-10-2026| quiz ep2: sudah dijawab
-[1]Gisya       |14:45:00 | 11-10-2026| quiz ep3: sudah dijawab
-[1]Gisya       |14:45:00 | 11-10-2026| quiz ep4: sudah dijawab
-[1]Gisya       |14:45:00 | 11-10-2026| quiz ep5: sudah dijawab
-[1]Gisya       |14:45:00 | 11-10-2026| quiz ep6: sudah dijawab
+[1]Gisya       |17:31:41 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Gisya       |17:31:41 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Gisya       |17:31:41 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Gisya       |17:31:41 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Gisya       |17:31:41 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Gisya       |17:31:41 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Gisya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Gisya       |14:45:02 | 11-10-2026| music: kedua misi sudah tercapai, stop
-[1]Gisya       |14:45:03 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Gisya       |14:45:03 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Gisya       |14:45:03 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Gisya       |17:31:45 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Gisya       |17:31:45 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Gisya       |17:31:45 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Gisya       |17:31:45 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Gisya menjalankan: Claim Missions
-[1]Gisya       |14:45:04 | 11-10-2026| mission music-listens-10: sudah diklaim
-[1]Gisya       |14:45:04 | 11-10-2026| mission music-minutes-30: sudah diklaim
-[1]Gisya       |14:45:04 | 11-10-2026| mission anime-completed-3: sudah diklaim
+[1]Gisya       |17:31:46 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Gisya       |17:31:46 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Gisya       |17:31:46 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Gisya menjalankan: Check Eligibility
 
 --- eligibility [1]Gisya ---
-  @vgisyaa | score=1000 rank=5873
-  tasks    [###################-] 75/78
+  @vgisyaa | score=1030 rank=6004
+  tasks    [##################--] 72/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -61,14 +71,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Gisya menjalankan: Read Manga
-[1]Gisya       |14:45:08 | 11-10-2026| manga: 0/13 chapter belum completed
+[1]Gisya       |17:31:50 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Gisya menjalankan: Get Gift
-[1]Gisya       |14:45:09 | 11-10-2026| gift: 0/3 belum diterima
+[1]Gisya       |17:31:51 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Gisya menjalankan: Setup Profile
-[1]Gisya       |14:45:09 | 11-10-2026| profile: bio="https://x.com/vgisyaa" fav=mony rewardAt=1791686908
-[1]Gisya       |14:45:09 | 11-10-2026| profile: bonus sudah diklaim, skip
+[1]Gisya       |17:31:52 | 12-10-2026| profile: bio="https://x.com/vgisyaa" fav=mony rewardAt=1791686908
+[1]Gisya       |17:31:52 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Gisya menjalankan: Bind Wallet
-[1]Gisya       |14:45:10 | 11-10-2026| wallet: sudah terikat HzFG9oMvQZ... (solana)
+[1]Gisya       |17:31:52 | 12-10-2026| wallet: sudah terikat HzFG9oMvQZ... (solana)
 
 == RINGKASAN ==
-- Gisya: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Gisya: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
